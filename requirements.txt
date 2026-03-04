@@ -2,7 +2,8 @@ streamlit
 pandas
 numpy
 scikit-learn
-requests
+xgboost
 plotly
-matplotlib
-seaborn
+requests
+groq
+python-dotenv

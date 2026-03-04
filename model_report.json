@@ -1,0 +1,35 @@
+{
+  "best_model": "Gradient Boosting",
+  "r2_score": 0.7596,
+  "mae_million": 36.15,
+  "train_size": 4292,
+  "test_size": 1073,
+  "n_features": 31,
+  "all_results": [
+    {
+      "Model": "Gradient Boosting",
+      "R\u00b2": 0.7596,
+      "MAE ($M)": 36.15
+    },
+    {
+      "Model": "Random Forest",
+      "R\u00b2": 0.7476,
+      "MAE ($M)": 36.82
+    },
+    {
+      "Model": "XGBoost",
+      "R\u00b2": 0.723,
+      "MAE ($M)": 38.18
+    },
+    {
+      "Model": "Decision Tree",
+      "R\u00b2": 0.4595,
+      "MAE ($M)": 53.54
+    },
+    {
+      "Model": "Linear Regression",
+      "R\u00b2": -18.8527,
+      "MAE ($M)": 106.68
+    }
+  ]
+}
