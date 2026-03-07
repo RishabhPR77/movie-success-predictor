@@ -12,10 +12,6 @@ jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
-      - name: Ping Hugging Face Space
-        # Sends a silent web request to the direct container URL
-        run: curl -s -o /dev/null -w "%{http_code}" https://rishabhptdr-movie-success-predictor.hf.space
-        
       - name: Ping Streamlit Cloud
         # REPLACE THIS URL with your actual Streamlit app link
-        run: curl -s -o /dev/null -w "%{http_code}" https://your-app-name.streamlit.app
+        run: curl -s -o /dev/null -w "%{http_code}" https://movie-success-predictor-xu2vnp53g3jg8a3pmrr3k3.streamlit.app/
