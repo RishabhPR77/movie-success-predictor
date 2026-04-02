@@ -4,7 +4,7 @@ ML-powered web app that predicts box office revenue for South Asian films
 using budget, cast, director, genre, and release timing.
 
 ## Live Demo
-[cinemaiq.streamlit.app](your-link-here)
+[[cinemaiq.streamlit.app](https://movie-success-predictor-xu2vnp53g3jg8a3pmrr3k3.streamlit.app/)](your-link-here)
 
 ## Results
 - Best Model: XGBoost (or whatever yours is)
