@@ -11,7 +11,7 @@
 
 **ML-powered box office revenue predictor for South Asian cinema**
 
-[🚀 Live Demo](your-link-here) · [📊 Model Card](#model) · [🛠 Setup](#setup)
+[🚀 Live Demo](https://movie-success-predictor-xu2vnp53g3jg8a3pmrr3k3.streamlit.app/) · [📊 Model Card](#model) · [🛠 Setup](#setup)
 
 </div>
 
